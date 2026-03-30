@@ -3,8 +3,8 @@ Este repositorio contiene ejercicios realizados durante el curso de Lenguajes de
 Aquí se irán agregando archivos, código fuente, documentación y cualquier material relacionado con la materia.
 
 ## Contenido del repositorio
-- Programas en C++
-- Ejercicios básicos y avanzados
+- Desarrollo de bases de datos
+- Implementación en SQL server
 - Actividades académicas
 - Notas y ejemplos prácticos
 
